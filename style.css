@@ -1,0 +1,25 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #e6f0ff;
+    color: #333;
+}
+header {
+    background: #3399ff;
+    color: white;
+    text-align: center;
+    padding: 2rem 0;
+}
+section {
+    padding: 2rem;
+    max-width: 900px;
+    margin: auto;
+}
+h2 {
+    color: #005c99;
+}
+a {
+    color: #005c99;
+}
